@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5effff;
+  background: #60d1bf;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2659,4 +2659,22 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
+}
+body {
+  background: url("http://windows7en.com/uploads/140829/2014032922415890.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+#sidebar {
+  background: url("http://owrosclbg.bkt.clouddn.com/-39t2Q5-bgxhZ1aT3cS1hc-u0.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#sidebar p,
+#sidebar span,
+#sidebar a {
+  color: #fff;
 }
